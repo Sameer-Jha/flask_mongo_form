@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/sam/.local/share/virtualenvs/flask_mongo_form-PewLwc9K/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": false
+}
